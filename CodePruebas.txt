@@ -46,7 +46,8 @@
 (pais eu) 
 (fecha 2017) 
 (idiomas espanol ingles) 
-(atributos familia comedia animada feliz)))
+(atributos familia comedia animada feliz)
+(edad_usuario 15)))
 
 (assert(peliculas (nombre forrest_gump) 
 (generos drama comedia) 
